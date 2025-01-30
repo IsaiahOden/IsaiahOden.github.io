@@ -1,0 +1,25 @@
+#recommendations {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 18px;
+    text-align: left;
+}
+
+#recommendations th, #recommendations td {
+    padding: 12px 15px;
+    border: 1px solid #ddd;
+}
+
+#recommendations th {
+    background-color: #f2f2f2;
+    color: #333;
+}
+
+#recommendations tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+#recommendations tr:hover {
+    background-color: #f1f1f1;
+}
