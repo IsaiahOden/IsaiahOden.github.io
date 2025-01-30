@@ -6,5 +6,7 @@
 
 Some pictures Around Here
 
+<h1>Here's a <a href="https://sidequests.onrender.com/Blog/2025/IsaiahOden">link</a> to my blog </h1>
+
 
 Then they have these cool badges with all their languages here.
