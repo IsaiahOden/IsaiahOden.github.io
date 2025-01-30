@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # Now we got some stuff going
 
 ### We should eventually work to get some CSS ON Here but let's start with a skeleton.
@@ -10,3 +11,7 @@ Some pictures Around Here
 
 
 Then they have these cool badges with all their languages here.
+=======
+# [CLICK HERE](https://isaiahoden.github.io/)
+![The GodFather Meme "Welcome to the Family"](https://sohl-lab.sdsu.edu/wp-content/uploads/2017/02/63341322.jpg)
+>>>>>>> Stashed changes

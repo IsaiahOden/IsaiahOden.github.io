@@ -1,0 +1,93 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    background-color: #f4f4f4;
+}
+
+#about-container {
+    max-width: 800px;
+    margin: auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#about-title, #projects-title, #background-title, #education-title, #skills-title, #contact-title {
+    color: #333;
+}
+
+#about-intro, #projects-intro, #background-text, #education-text, #contact-text {
+    margin-bottom: 15px;
+}
+
+#projects-list, #skills-list {
+    list-style-type: square;
+    margin-left: 20px;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#recommendations {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 18px;
+    text-align: left;
+}
+
+#recommendations th, #recommendations td {
+    padding: 12px 15px;
+    border: 1px solid #ddd;
+}
+
+#recommendations th {
+    background-color: #f2f2f2;
+    color: #333;
+}
+
+#recommendations tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+#recommendations tr:hover {
+    background-color: #f1f1f1;
+}
+
+#summary-container {
+    max-width: 800px;
+    margin: auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#summary-title {
+    color: #333;
+    text-align: center;
+}
+
+#summary-intro {
+    font-size: 1.1em;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.subject-title {
+    color: #007bff;
+    margin-top: 20px;
+}
+
+.subject-text {
+    margin-bottom: 15px;
+    font-size: 1em;
+}
